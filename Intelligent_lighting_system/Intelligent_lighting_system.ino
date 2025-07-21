@@ -99,7 +99,7 @@ void loop() {
             }
 
             client.println("</div>");
-            client.println("<footer>&copy; 2025 Faith Systems | Team Innovators</footer>");
+            client.println("<footer>&copy; 2025 Dushime Faith Rose | Team Innovators</footer>");
             client.println("</body></html>");
             client.println();
             break;
