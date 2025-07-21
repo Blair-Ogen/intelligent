@@ -60,7 +60,7 @@ void loop() {
             client.println("Content-type:text/html");
             client.println();
 
-            client.println("<!DOCTYPE html><html><head><title>Faith Systems Lighting</title>");
+            client.println("<!DOCTYPE html><html><head><title>Blair Systems Lighting</title>");
             client.println("<style>");
             client.println("body{font-family:'Segoe UI',sans-serif;background:#1e1e2f;color:white;text-align:center;padding:20px;}");
             client.println("h1{color:#00d1b2;margin-bottom:10px;}");
@@ -99,7 +99,7 @@ void loop() {
             }
 
             client.println("</div>");
-            client.println("<footer>&copy; 2025 Dushime Faith Rose | Team Innovators</footer>");
+            client.println("<footer>&copy; 2025 OGENRWOT BLAIR | Team Innovators</footer>");
             client.println("</body></html>");
             client.println();
             break;
